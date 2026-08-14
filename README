@@ -1,0 +1,184 @@
+# 🚀 Machine Learning from Scratch | 30 Days
+## 📖 About This Repository
+
+Welcome to my **Machine Learning from Scratch | 30 Days** challenge.
+
+This repository documents my journey of learning **Machine Learning from the ground up** through consistent daily practice.
+
+Instead of simply completing tutorials, I'm focusing on understanding concepts, writing clean Python code, solving real-world problems, and documenting everything I learn.
+
+Each day includes:
+
+- 📘 Concept Explanation
+- 🧠 Intuition & Theory
+- 🐍 Python Implementation
+- 📊 Data Visualization
+- 💼 Real-world Applications
+- 🎯 Interview Questions
+- 📝 Handwritten Notes
+- 📂 GitHub Notebook
+
+The goal is to become interview-ready for **Data Analyst**, **Data Scientist**, and **Machine Learning Engineer** roles while building a strong public portfolio.
+
+---
+
+# 🎯 Learning Roadmap
+
+| Day | Topic | Status |
+|-----|-------------------------------|:------:|
+| 1 | What is Machine Learning? | ✅ |
+| 2 | Types of Machine Learning | ⏳ |
+| 3 | Machine Learning Workflow | ⏳ |
+| 4 | Data Preprocessing | ⏳ |
+| 5 | Exploratory Data Analysis | ⏳ |
+| 6 | Feature Engineering | ⏳ |
+| 7 | Train-Test Split & Cross Validation | ⏳ |
+| ... | ... | ... |
+| 30 | End-to-End Machine Learning Project | ⏳ |
+
+---
+
+# 📂 Repository Structure
+
+```text
+Machine-Learning-From-Scratch-30-Days/
+
+│── README.md
+│── LICENSE
+│── requirements.txt
+│
+├── Day-01-What-is-Machine-Learning/
+├── Day-02-Types-of-Machine-Learning/
+├── Day-03-ML-Workflow/
+│
+├── Mini-Projects/
+│
+└── Final-End-to-End-Project/
+```
+
+---
+
+# 🚀 What You'll Find Here
+
+✅ Beginner-Friendly Notes
+
+✅ Python Code
+
+✅ Jupyter Notebooks
+
+✅ Interview Questions
+
+✅ Practice Exercises
+
+✅ Real-world Examples
+
+✅ Mini Projects
+
+✅ End-to-End Project
+
+✅ GitHub Documentation
+
+---
+
+# 🛠️ Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+# 📂 Mini Projects
+
+During this journey, I'll also build practical Machine Learning projects.
+
+- 🏡 House Price Prediction
+- 📧 Spam Email Detection
+- 👥 Customer Churn Prediction
+- 🚢 Titanic Survival Prediction
+- 💳 Credit Card Fraud Detection
+- 🎬 Movie Recommendation System
+
+---
+
+# 🚀 Final Project
+
+At the end of this series, I'll build a complete end-to-end Machine Learning project covering:
+
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Model Building
+- Hyperparameter Tuning
+- Model Evaluation
+- Deployment
+
+---
+
+# 📊 Skills Covered
+
+- Machine Learning Fundamentals
+- Statistics for Machine Learning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Feature Engineering
+- Regression
+- Classification
+- Clustering
+- Model Evaluation
+- Hyperparameter Tuning
+- Machine Learning Pipelines
+- Model Deployment
+
+---
+
+# 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Machine-Learning-From-Scratch-30-Days.git
+```
+
+Move into the repository:
+
+```bash
+cd Machine-Learning-From-Scratch-30-Days
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn: *Your LinkedIn Profile*
+
+💻 GitHub: *Your GitHub Profile*
+
+📧 Email: *Your Email*
+
+---
+
+# ⭐ Support
+
+If you find this repository useful, consider giving it a ⭐.
+
+It motivates me to continue learning and sharing.
+
+---
+
+## 📌 Quote
+
+> **"Every expert was once a beginner who chose to stay consistent."**
+
+**Let's learn Machine Learning — one day at a time. 🚀**
