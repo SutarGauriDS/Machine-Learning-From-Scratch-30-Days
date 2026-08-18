@@ -1,0 +1,5 @@
+pandas → Data manipulation, pivot_table(), groupby()
+numpy → Numerical operations
+matplotlib → Bar, line, scatter, and histogram charts
+seaborn → Heatmaps and advanced visualizations
+jupyter → Run the .ipynb notebook
