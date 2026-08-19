@@ -1,0 +1,7 @@
+# Libraries used
+Pandas → Load and explore the CSV dataset
+NumPy → Numerical operations
+Matplotlib → Scatter plots and visualization
+Seaborn → Correlation heatmap
+Scikit-Learn → train_test_split()
+Jupyter → Run the notebook
