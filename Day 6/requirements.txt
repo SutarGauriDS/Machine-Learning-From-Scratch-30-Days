@@ -1,0 +1,5 @@
+# reuirements
+pandas
+matplotlib
+scikit-learn
+colab notebook
