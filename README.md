@@ -67,12 +67,12 @@ The goal is to become **interview-ready for Machine Learning Engineer and Data S
 | Day    | Topic                              | Status |
 | ------ | ---------------------------------- | ------ |
 | Day 1  | Introduction to ML & First Model   | ✅      |
-| Day 2  | Data Preprocessing                 | ⏳      |
-| Day 3  | NumPy for ML                       | ⏳      |
-| Day 4  | Pandas for ML                      | ⏳      |
-| Day 5  | Data Visualization                 | ⏳      |
-| Day 6  | Train-Test Split                   | ⏳      |
-| Day 7  | Linear Regression                  | ⏳      |
+| Day 2  | Data Preprocessing                 | ✅            |
+| Day 3  | NumPy for ML                       | ✅            |
+| Day 4  | Pandas for ML                      | ✅            |
+| Day 5  | Data Visualization                 | ✅            |
+| Day 6  | Train-Test Split                   | ✅            |
+| Day 7  | Linear Regression                  | ✅            |
 | Day 8  | Multiple Linear Regression         | ⏳      |
 | Day 9  | Polynomial Regression              | ⏳      |
 | Day 10 | Logistic Regression                | ⏳      |
