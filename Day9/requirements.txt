@@ -1,0 +1,7 @@
+# library used 
+pandas → Dataset loading and manipulation
+numpy → Numerical operations
+matplotlib → K vs Accuracy and other plots
+seaborn → Confusion matrix and class distribution
+scikit-learn → KNN, StandardScaler, train-test split, and evaluation metrics
+jupyter → Running the notebook
