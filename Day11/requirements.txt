@@ -1,0 +1,7 @@
+Libraries used
+Pandas — data loading and preprocessing
+NumPy — numerical operations
+Matplotlib — visualizations
+Seaborn — confusion matrix and plots
+Scikit-Learn — Decision Tree and model evaluation
+Jupyter — notebook execution
