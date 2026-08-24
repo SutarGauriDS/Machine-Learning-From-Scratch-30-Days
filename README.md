@@ -73,13 +73,13 @@ The goal is to become **interview-ready for Machine Learning Engineer and Data S
 | Day 5  | Data Visualization                 | ✅            |
 | Day 6  | Train-Test Split                   | ✅            |
 | Day 7  | Linear Regression                  | ✅            |
-| Day 8  | Multiple Linear Regression         | ⏳      |
-| Day 9  | Polynomial Regression              | ⏳      |
-| Day 10 | Logistic Regression                | ⏳      |
-| Day 11 | KNN                                | ⏳      |
-| Day 12 | Naive Bayes                        | ⏳      |
-| Day 13 | Decision Trees                     | ⏳      |
-| Day 14 | Random Forest                      | ⏳      |
+| Day 8  | Logistic Regression                | ✅    |
+| Day 9  | KNN                                | ✅      |
+| Day 10 | Decision Trees                     | ✅      |
+| Day 11 | Naive Bayes                        | ✅      |
+| Day 12 | Random Forest                      | ⏳      |
+| Day 13 | Mini project                       | ⏳      |
+| Day 14 |                                    | ⏳      |
 | Day 15 | SVM                                | ⏳      |
 | Day 16 | Feature Engineering                | ⏳      |
 | Day 17 | Feature Scaling                    | ⏳      |
