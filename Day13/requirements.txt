@@ -1,9 +1,0 @@
-Requirements:
-
-pandas
-matplotlib
-scikit-learn
-jupyter
-
-Install them with:
-pip install -r requirements.txt
