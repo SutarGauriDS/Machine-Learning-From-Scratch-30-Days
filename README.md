@@ -77,9 +77,9 @@ The goal is to become **interview-ready for Machine Learning Engineer and Data S
 | Day 9  | KNN                                | ✅      |
 | Day 10 | Decision Trees                     | ✅      |
 | Day 11 | Naive Bayes                        | ✅      |
-| Day 12 | Random Forest                      | ⏳      |
-| Day 13 | Mini project                       | ⏳      |
-| Day 14 |                                    | ⏳      |
+| Day 12 | Random Forest                      | ✅      |
+| Day 13 | Model Comparison                   | ✅     |
+| Day 14 | SVM                                | ✅      |
 | Day 15 | SVM                                | ⏳      |
 | Day 16 | Feature Engineering                | ⏳      |
 | Day 17 | Feature Scaling                    | ⏳      |
