@@ -1,0 +1,25 @@
+📦 Requirements
+
+Create a requirements.txt file:
+
+pandas
+matplotlib
+scikit-learn
+jupyter
+
+Install the dependencies:
+
+pip install -r requirements.txt
+▶️ Run the Python File
+python day14_svm_hyperparameter_tuning.py
+📓 Run the Jupyter Notebook
+
+Start Jupyter Notebook:
+
+jupyter notebook
+
+Then open:
+
+Day14_SVM_Hyperparameter_Tuning.ipynb
+
+Run the cells sequentially.
